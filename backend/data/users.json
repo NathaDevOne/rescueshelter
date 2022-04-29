@@ -1,0 +1,15 @@
+[
+    {
+    	"avatar" : {
+            "public_id" : "avatars/uq6956r5o8ojkcms6dav",
+            "url" : "https://res.cloudinary.com/dcdowtpb6/image/upload/v1650354019/avatars/uq6956r5o8ojkcms6dav.jpg"
+        },
+        "name" : "Nathaniel",
+        "num" : "09123456789",
+        "addr" : "Taguig",
+        "role" : "Admin",
+        "status" : "Active",
+        "email" : "nathaniel@gmail.com",
+        "password" : "password"
+    }
+]
